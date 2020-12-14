@@ -1,0 +1,21 @@
+.ka-h1{
+font-family: 'Source Serif Pro', 'Noto Serif', 'serif';
+font-weight: 600;
+font-size: 30px;
+color: rgb(33, 36, 44);
+line-height: 31px;
+}
+
+.ka-description{
+    font-weight: 400;
+    line-height: 22px;
+    color: rgb(33, 36, 44);
+    font-size: 14px;
+
+}
+
+.ka-banner-img{
+ width: 519px;
+ height: 567;
+ box-sizing: inherit;
+}
