@@ -354,3 +354,131 @@ margin-top: 50px;
            padding: 0px;
            overflow-x: hidden;
        }
+
+
+
+
+
+
+
+
+
+
+       /*--------------G----------------------*/
+.h2-style{
+padding-bottom: 80px;
+padding-top: 40px;
+font-family: 'Source Serif Pro', serif;
+font-weight: 600;
+font-size: 30px;
+letter-spacing: -0.1px;
+
+}
+.section-headings{
+padding-bottom:20px;
+padding-top: 20px;
+font-family: 'Source Serif Pro', serif;
+font-weight: 600;
+font-size: 30px;
+letter-spacing: -0.1px;
+}
+.btn-primary--modifier{
+    background-color: rgb(242, 24, 115);
+}
+
+.logo{
+    width: 51%;
+    cursor: pointer;
+    padding-top: 13px;
+    float: left;
+}
+.row1{
+    height: 61px;
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+}
+.fa-search{
+    float:right;
+    padding: 20px;
+    padding-right: 10px;
+    
+    
+    color:rgb(24, 101, 242);
+}
+.fa-bars{
+    float:right;
+    padding: 20px;
+    padding-right: 7px;
+    color:blue;
+    font-size: 20px;
+    color:rgb(24, 101, 242);
+}
+.searchicon{
+    float:right;
+    padding: 19px;
+    padding-right: 11px;
+    
+    color:rgb(24, 101, 242);
+}
+.body-section2{
+    background-color: rgb(247, 245, 244);
+}
+.footer-paragraph{
+color:rgb(130, 149, 186);
+font-family: 'Lato', sans-serif;
+font-size: 20px;
+line-height: 30px;
+max-width: 335px;
+}
+.footer-list--elements{
+    color: white;
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+}
+.ul{
+    padding-inline-start: 20px ;
+}
+.footer-list--heading{
+    color:rgb(130, 149, 186) ;
+}
+.card-smalltext{
+    font-family: 'Lato', sans-serif;
+    letter-spacing: -0.1px;
+    line-height: 22px;
+
+}
+.h3-style{
+    font-family: 'Source Serif Pro', serif;
+}
+.fa-angle-down{
+    padding-left: 3px;
+}
+.btn-primary--modifier{
+    width: 238px;
+    height: 60px;
+}
+.card{
+display: inline;
+
+}
+.cards{
+display:flex;
+}
+.row-section2{
+    max-width: 1500px;
+}
+.card-smalltext{
+    font-size: 16px;
+    
+}
+.h2-style{
+    font-size: 44px;
+    
+}
+.h3-style{
+    font-size: 25px;
+    line-height: 60px;
+}
+            
+                
