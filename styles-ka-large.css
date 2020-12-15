@@ -7,7 +7,7 @@ margin-top: 50px;
     background-image: url(./asset/bkimg.jpeg); 
     background-repeat: no-repeat;
     background-size: 1000px 500px;
-    height: 800px;
+    height: 1000px;
     background-position: center;
    }
    
@@ -449,6 +449,7 @@ max-width: 335px;
 }
 .footer-list--heading{
     color:rgb(130, 149, 186) ;
+    text-align: left;
 }
 .card-smalltext{
     font-family: 'Lato', sans-serif;
